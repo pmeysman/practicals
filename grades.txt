@@ -1,0 +1,8 @@
+history,80
+english,70
+maths,65
+biology,80
+chemistry,90
+physics,75
+drama,80
+pe,85
