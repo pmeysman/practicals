@@ -1,0 +1,2 @@
+Age,Gender,Steroid,Antivirals,Fatigue,Malaise,Anorexia,Liver.big,Liver.firm,Spleen.palpable,Spiders,Ascites,Varices,Bilirubin,Alk.Phosphate,SGOT,Albumin,Protim,Histology
+53,2,1,2,1,2,2,2,2,1,1,2,1,1.5,81,19,4.1,48,2
